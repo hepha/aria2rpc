@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 
 import json, urllib2, sys, os
 from argparse import ArgumentParser
